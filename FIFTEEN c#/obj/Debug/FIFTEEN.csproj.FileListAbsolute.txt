@@ -1,0 +1,31 @@
+D:\Материалы для учебы\4 Программирование и ООП\Свои задачи\FIFTEEN\bin\Debug\FIFTEEN.exe.config
+D:\Материалы для учебы\4 Программирование и ООП\Свои задачи\FIFTEEN\bin\Debug\FIFTEEN.exe
+D:\Материалы для учебы\4 Программирование и ООП\Свои задачи\FIFTEEN\bin\Debug\FIFTEEN.pdb
+D:\Материалы для учебы\4 Программирование и ООП\Свои задачи\FIFTEEN\obj\Debug\FIFTEEN.FormGame15.resources
+D:\Материалы для учебы\4 Программирование и ООП\Свои задачи\FIFTEEN\obj\Debug\FIFTEEN.Properties.Resources.resources
+D:\Материалы для учебы\4 Программирование и ООП\Свои задачи\FIFTEEN\obj\Debug\FIFTEEN.csproj.GenerateResource.cache
+D:\Материалы для учебы\4 Программирование и ООП\Свои задачи\FIFTEEN\obj\Debug\FIFTEEN.csproj.CoreCompileInputs.cache
+D:\Материалы для учебы\4 Программирование и ООП\Свои задачи\FIFTEEN\obj\Debug\FIFTEEN.exe
+D:\Материалы для учебы\4 Программирование и ООП\Свои задачи\FIFTEEN\obj\Debug\FIFTEEN.pdb
+D:\Материалы для учебы\4 семестр\4 Программирование и ООП\Свои задачи\FIFTEEN c#\bin\Debug\FIFTEEN.exe.config
+D:\Материалы для учебы\4 семестр\4 Программирование и ООП\Свои задачи\FIFTEEN c#\bin\Debug\FIFTEEN.exe
+D:\Материалы для учебы\4 семестр\4 Программирование и ООП\Свои задачи\FIFTEEN c#\bin\Debug\FIFTEEN.pdb
+D:\Материалы для учебы\4 семестр\4 Программирование и ООП\Свои задачи\FIFTEEN c#\obj\Debug\FIFTEEN.csproj.AssemblyReference.cache
+D:\Материалы для учебы\4 семестр\4 Программирование и ООП\Свои задачи\FIFTEEN c#\obj\Debug\FIFTEEN.csproj.SuggestedBindingRedirects.cache
+D:\Материалы для учебы\4 семестр\4 Программирование и ООП\Свои задачи\FIFTEEN c#\obj\Debug\FIFTEEN.FormGame15.resources
+D:\Материалы для учебы\4 семестр\4 Программирование и ООП\Свои задачи\FIFTEEN c#\obj\Debug\FIFTEEN.Properties.Resources.resources
+D:\Материалы для учебы\4 семестр\4 Программирование и ООП\Свои задачи\FIFTEEN c#\obj\Debug\FIFTEEN.csproj.GenerateResource.cache
+D:\Материалы для учебы\4 семестр\4 Программирование и ООП\Свои задачи\FIFTEEN c#\obj\Debug\FIFTEEN.csproj.CoreCompileInputs.cache
+D:\Материалы для учебы\4 семестр\4 Программирование и ООП\Свои задачи\FIFTEEN c#\obj\Debug\FIFTEEN.exe
+D:\Материалы для учебы\4 семестр\4 Программирование и ООП\Свои задачи\FIFTEEN c#\obj\Debug\FIFTEEN.pdb
+D:\Материалы для учебы\Свои задачи\FIFTEEN c#\bin\Debug\FIFTEEN.exe.config
+D:\Материалы для учебы\Свои задачи\FIFTEEN c#\bin\Debug\FIFTEEN.exe
+D:\Материалы для учебы\Свои задачи\FIFTEEN c#\bin\Debug\FIFTEEN.pdb
+D:\Материалы для учебы\Свои задачи\FIFTEEN c#\obj\Debug\FIFTEEN.csproj.AssemblyReference.cache
+D:\Материалы для учебы\Свои задачи\FIFTEEN c#\obj\Debug\FIFTEEN.csproj.SuggestedBindingRedirects.cache
+D:\Материалы для учебы\Свои задачи\FIFTEEN c#\obj\Debug\FIFTEEN.FormGame15.resources
+D:\Материалы для учебы\Свои задачи\FIFTEEN c#\obj\Debug\FIFTEEN.Properties.Resources.resources
+D:\Материалы для учебы\Свои задачи\FIFTEEN c#\obj\Debug\FIFTEEN.csproj.GenerateResource.cache
+D:\Материалы для учебы\Свои задачи\FIFTEEN c#\obj\Debug\FIFTEEN.csproj.CoreCompileInputs.cache
+D:\Материалы для учебы\Свои задачи\FIFTEEN c#\obj\Debug\FIFTEEN.exe
+D:\Материалы для учебы\Свои задачи\FIFTEEN c#\obj\Debug\FIFTEEN.pdb
